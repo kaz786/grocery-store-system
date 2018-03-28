@@ -1,0 +1,43 @@
+c:\users\kaeshub\documents\visual studio 2010\Projects\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.vbprojResolveAssemblyReference.cache
+c:\users\kaeshub\documents\visual studio 2010\Projects\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.frmSearch.resources
+c:\users\kaeshub\documents\visual studio 2010\Projects\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.LoginForm1.resources
+c:\users\kaeshub\documents\visual studio 2010\Projects\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.main.resources
+c:\users\kaeshub\documents\visual studio 2010\Projects\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.Resources.resources
+c:\users\kaeshub\documents\visual studio 2010\Projects\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.Product.resources
+c:\users\kaeshub\documents\visual studio 2010\Projects\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.Prod_stud.resources
+c:\users\kaeshub\documents\visual studio 2010\Projects\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.Student.resources
+c:\users\kaeshub\documents\visual studio 2010\Projects\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.vbproj.GenerateResource.Cache
+c:\users\kaeshub\documents\visual studio 2010\Projects\Tuckshop\Tuckshop\bin\Debug\Tuckshop.exe
+c:\users\kaeshub\documents\visual studio 2010\Projects\Tuckshop\Tuckshop\bin\Debug\Tuckshop.pdb
+c:\users\kaeshub\documents\visual studio 2010\Projects\Tuckshop\Tuckshop\bin\Debug\Tuckshop.xml
+c:\users\kaeshub\documents\visual studio 2010\Projects\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.exe
+c:\users\kaeshub\documents\visual studio 2010\Projects\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.xml
+c:\users\kaeshub\documents\visual studio 2010\Projects\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.pdb
+c:\users\kaeshub\documents\visual studio 2010\Projects\Tuckshop\Tuckshop\obj\x86\Debug\RdlCompile.cache
+c:\users\kaeshub\documents\visual studio 2010\Projects\Tuckshop\Tuckshop\obj\x86\Debug\RdlCompile.compiled
+c:\users\kaeshub\documents\visual studio 2010\Projects\Tuckshop\Tuckshop\bin\Debug\Tuckshop.exe.config
+c:\users\kaeshub\documents\visual studio 2010\Projects\Tuckshop\Tuckshop\bin\Debug\Tuckshop.accdb
+c:\users\kaeshub\documents\visual studio 2010\Projects\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.Form1.resources
+C:\Users\Kaeshub\Documents\Visual Studio 2010\Projects\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.Studrprt.resources
+D:\Tuckshop\Tuckshop\bin\Debug\Tuckshop.exe.config
+D:\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.exe
+D:\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.xml
+D:\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.pdb
+D:\Tuckshop\Tuckshop\bin\Debug\Tuckshop.accdb
+D:\Tuckshop\Tuckshop\bin\Debug\Tuckshop.exe
+D:\Tuckshop\Tuckshop\bin\Debug\Tuckshop.pdb
+D:\Tuckshop\Tuckshop\bin\Debug\Tuckshop.xml
+D:\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.vbprojResolveAssemblyReference.cache
+D:\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.Form1.resources
+D:\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.frmSearch.resources
+D:\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.LoginForm1.resources
+D:\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.main.resources
+D:\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.Resources.resources
+D:\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.Product.resources
+D:\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.Prod_stud.resources
+D:\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.Student.resources
+D:\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.Studrprt.resources
+D:\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.vbproj.GenerateResource.Cache
+D:\Tuckshop\Tuckshop\obj\x86\Debug\RdlCompile.cache
+D:\Tuckshop\Tuckshop\obj\x86\Debug\RdlCompile.compiled
+D:\Tuckshop\Tuckshop\obj\x86\Debug\Tuckshop.Form2.resources

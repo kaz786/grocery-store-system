@@ -1,0 +1,248 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Tuckshop
+</name>
+</assembly>
+<members>
+<member name="T:Tuckshop.TuckshopDataSet2.ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet2.ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet2.ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet2TableAdapters.ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Tuckshop.TuckshopDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(Tuckshop.TuckshopDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Tuckshop.TuckshopDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(Tuckshop.TuckshopDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Tuckshop.TuckshopDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(Tuckshop.TuckshopDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Tuckshop.TuckshopDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Tuckshop.TuckshopDataSet2TableAdapters.TableAdapterManager.UpdateAll(Tuckshop.TuckshopDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet1.ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet1.Stud_ProdDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet1.StudentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet1.ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet1.Stud_ProdRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet1.StudentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet1.ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet1.Stud_ProdRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet1.StudentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet1TableAdapters.ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet1TableAdapters.Stud_ProdTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet1TableAdapters.StudentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Tuckshop.TuckshopDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Tuckshop.TuckshopDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Tuckshop.TuckshopDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Tuckshop.TuckshopDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Tuckshop.TuckshopDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Tuckshop.TuckshopDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Tuckshop.TuckshopDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Tuckshop.TuckshopDataSet1TableAdapters.TableAdapterManager.UpdateAll(Tuckshop.TuckshopDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Tuckshop.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Tuckshop.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Tuckshop.My.Resources.Resources._56ac8344569e5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Tuckshop.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet.ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet.Stud_ProdDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet.StudentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet.ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet.Stud_ProdRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet.StudentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet.ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet.Stud_ProdRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet.StudentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSetTableAdapters.ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSetTableAdapters.Stud_ProdTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSetTableAdapters.StudentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Tuckshop.TuckshopDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Tuckshop.TuckshopDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Tuckshop.TuckshopDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Tuckshop.TuckshopDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Tuckshop.TuckshopDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Tuckshop.TuckshopDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Tuckshop.TuckshopDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Tuckshop.TuckshopDataSetTableAdapters.TableAdapterManager.UpdateAll(Tuckshop.TuckshopDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Tuckshop.TuckshopDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
